@@ -9,5 +9,10 @@
 	- idioms
 	- principles
 - introduction to http 
+	- what are clients and servers? 
+	- what are protocols? 
+	- net/http go package
+	- need for servers in the first place
 
+ 
 

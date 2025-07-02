@@ -1,0 +1,13 @@
+01-07-2025
+- generics in golang
+	- constraints in generics (implemented using interfaces)
+
+
+02-07-2025
+- go design ideas
+	- tradeoffs
+	- idioms
+	- principles
+- introduction to http 
+
+

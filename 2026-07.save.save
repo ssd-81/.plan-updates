@@ -18,7 +18,5 @@
 03-07-2025
 - http clients
 	-JSON and handling in go
-	- json.Unmarshal() , json.Decode()
-	- XML 
-	- map[string]interface{} 
-
+	- encoding/json go package
+	- json.NewDecoder

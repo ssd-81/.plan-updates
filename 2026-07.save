@@ -22,3 +22,10 @@
 	- XML 
 	- map[string]interface{} 
 
+
+
+06-07-2025
+- DNS 
+	- what is DNS and why it is used?
+	- worked on a problem on boot.dev to apply unpack a response using Unmarshal and then use it to get required value
+

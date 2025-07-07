@@ -29,3 +29,12 @@
 	- what is DNS and why it is used?
 	- worked on a problem on boot.dev to apply unpack a response using Unmarshal and then use it to get required value
 
+
+
+07-07-2025
+- URL
+       - URLs are actually URIs 
+       - URNs are also a thing
+       - URLs are asymmetrically used because of their practicality 
+      - structure of a URL
+      - query parameters

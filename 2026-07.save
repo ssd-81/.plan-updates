@@ -38,3 +38,11 @@
        - URLs are asymmetrically used because of their practicality 
       - structure of a URL
       - query parameters
+
+
+08-07-2025
+- HTTP Headers 
+    -what are HTTP headers and why are they required
+    - meta information carried by http headers (client, os , lang etc) 
+    - status codes (most common being 200)
+    - fundamental idea behind auth (API keys and interaction)

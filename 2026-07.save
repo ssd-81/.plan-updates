@@ -57,3 +57,14 @@
 		- the core of all backend applications (quite literlly)
 		- HTTP methods map to CRUD actions by conventions
 	- POST method ( generally, not a safe method; as it can create duplicates)
+
+
+09-07-2025
+- HTTP methods
+	- difference between GET and POST
+	- concept of idempotence in context of methods
+	- status codes
+- HTTP PUT
+	- PUT is used to update the target resource with the content of request body
+	- PUT is idempotent (not like POST)
+![post and put request comparison](/post_put.png)

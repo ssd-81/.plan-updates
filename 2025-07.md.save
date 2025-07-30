@@ -327,12 +327,9 @@
 ## 29-07-2025
 - Pokedex CLI project
 	- I need to create a struct(s) for handling unmarshalling of response from an API endpoint; continuing on that. 
-	- changed function signatures for all command callback functions to take up arguments for command 
-> Starting to gain some some momentum. Right now at level 0, need to level to 1. 
-> Benchmarking: 7-8 hours of consistent deep work for 69 days => level 1
-
-
---- 
-
-## 30-07-2025
--  
+	- designing struct for handling of argument for various functions in command callbacks and choosing a pattern for scalable code 
+	- changed function signature of command callback functions for clear and maintainable code
+	- integrated caching for handling command "explore" callback 
+- Rust 
+	- design choices in rust (overview) like preventing assumptions and enforcing types 
+	- 

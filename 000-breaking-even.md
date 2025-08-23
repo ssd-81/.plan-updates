@@ -1,6 +1,18 @@
-### Breaking Even
+## Breaking Even
 
-- [ ] 1
+- [x] 
+	- started : 23-08-25
+	- a lot of distraction; focus quality is not really good, but I will at least try to complete this session
+	- working on backend database related bugs, configs 
+	- did gain some clarity and got some work done; brown noise does help btw
+	- i do well when i keep the questions coming and constantly iterate
+	- took a small 5 min break
+	- working on something that is pushing me 
+	- attained 3 hr mark
+	- the journey has still not ended; the hard part is still there
+	- just about to finish
+	- completed: insanely productive session; solved problems that seemed really hard or felt will take 2-3 days
+	- session rating : 8/10 
 - [ ] 2
 - [ ] 3
 - [ ] 4

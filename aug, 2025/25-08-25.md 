@@ -58,4 +58,7 @@
 			- i can't stop praising this problem; it is that beautiful. just wow. 
 			- this problem is essentially a wrapper over fibonacci (if you think deeply) 
 			- absolutely revisit this problem; i would say just do this enough times. 
-	- 
+	- concept: insertion sort
+		- the core idea is solving sub problems
+		- a single element is always sorted (single element array) 
+		- i will need to dry run this algorithm and spend some time understanding the core idea; spend 2 -session on it. 

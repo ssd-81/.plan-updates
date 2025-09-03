@@ -1,0 +1,29 @@
+2025-09-02
+
+## Todo/ Logs
+- [ ] do dsa
+- [ ] do backend engineering
+
+
+## Topics
+- algorithms
+
+
+
+## notes 
+- algorithms 
+	- concept: depth first search 
+		- just got a general idea; but actual understanding will be built through iterations and repetition
+	- problem: binary tree inorder traversal
+		- recursive solution is trivial, do it iteratively (mentioned  in question) 
+		- i will try to solve this using recursion first. 
+		- there is a mismatch between what i am trying to do and what the question expects me to do
+
+
+- backend engineering
+	- rss feed project 
+		- addfeeds command added successfully
+		- create many to many relationship between users and feeds
+			-
+> got distracted , really distracted. I need to focus intensively, this is not going to cut it. 
+

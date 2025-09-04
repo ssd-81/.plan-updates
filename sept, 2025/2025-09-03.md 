@@ -24,8 +24,7 @@
 		- I wrote a solution and it did not compile/interpret 
 		- okay, so the solution passed 1 test case; a case for celebration
 		- now, 5 test cases are passing; but I think the code has certain flaws which need to removed; but I am focused on writing any solution for now; we will think optimization later
-		- will be watching the solution now. 
-		-  
+		- 
 
 
 - Backend 
@@ -46,5 +45,5 @@
 			- they are pretty pretty interesting 
 			- it allows us to keep code DRY
 			- they can be thought of similar to OOP ideas
-		- my system started behaving erratic; I will look into that matter later. 
-		- this middleware thing is going to take me some time to understand; it is not as intuitive to implement. 
+		- the middleware seems like something I will need to understand. 
+		- 

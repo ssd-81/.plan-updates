@@ -13,7 +13,7 @@
 	- just about to finish
 	- completed: insanely productive session; solved problems that seemed really hard or felt will take 2-3 days
 	- session rating : 8/10 
-- [ ] 
+- [x] 
 	- started: 03-08-25
 	- the start seems to be great; focus quality is pretty pretty good. 
 	- I need to keep myself hydrated. 
@@ -21,7 +21,9 @@
 	- This is becoming a serious issue, I will need to resolve it. This is creating seroius problem. 
 	- I lost a lot of my focus. 
 	- But, let me try to finish what I started. 
-
+	- did complete it, but it was partially broken in between, because the laptop really went berserk, I just was not able to figure out what was wrong. 
+	- next day, it was working fine. 
+	- session rating: 3/10
 	
 - [ ] 3
 - [ ] 4

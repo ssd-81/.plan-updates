@@ -25,7 +25,17 @@
 	- next day, it was working fine. 
 	- session rating: 3/10
 	
-- [ ] 3
+- [x]
+	- started: 07-08-25
+	- got a start; but not great; a start anyways though. 
+	- focus quality is steady; I won't say terrific, but managable. 
+	- a slight fall in quality
+	- continuing anyways
+	- I do fairly good; but the problem seems to be not having a concrete system/framework to focus for intensively for long period; i get distracted in between and i don't have a clear model of what is work and what is not. 
+		- ::)
+	- was able to come up with a solution that I felt I won't be able to do in this session. 
+	- a few hiccups here and there; getting stable though. 
+	- session rating: 6/10
 - [ ] 4
 - [ ] 5
 - [ ] 6

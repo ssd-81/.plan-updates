@@ -1,6 +1,6 @@
 ## Breaking Even
 
-- [x] 
+- [x] zero 0x1
 	- started : 23-08-25
 	- a lot of distraction; focus quality is not really good, but I will at least try to complete this session
 	- working on backend database related bugs, configs 
@@ -13,7 +13,7 @@
 	- just about to finish
 	- completed: insanely productive session; solved problems that seemed really hard or felt will take 2-3 days
 	- session rating : 8/10 
-- [x] 
+- [x] zero 0x2
 	- started: 03-08-25
 	- the start seems to be great; focus quality is pretty pretty good. 
 	- I need to keep myself hydrated. 
@@ -24,8 +24,7 @@
 	- did complete it, but it was partially broken in between, because the laptop really went berserk, I just was not able to figure out what was wrong. 
 	- next day, it was working fine. 
 	- session rating: 3/10
-	
-- [x]
+- [x] zero 0x3
 	- started: 07-08-25
 	- got a start; but not great; a start anyways though. 
 	- focus quality is steady; I won't say terrific, but managable. 
@@ -36,7 +35,13 @@
 	- was able to come up with a solution that I felt I won't be able to do in this session. 
 	- a few hiccups here and there; getting stable though. 
 	- session rating: 6/10
-- [ ] 4
+- [x] zero 0x4
+	- about to start at 21:24
+	- started; and onto a good start. I was able to grasp ideas which I was not able to with half baked efforts. 
+	- feeling a bit sleepy at around 1:35 mark, should have taken some sleep during the day. I need to become a mathematician and highly optimized athlete. 
+	- feeling very lethargic and tired; limited sleep has started to take a toll on me. 
+	- could not complete the session as expected (missed mark by 20-25 min) and quality deteriorated too. 
+	- session rating: 4/10
 - [ ] 5
 - [ ] 6
 - [ ] 7

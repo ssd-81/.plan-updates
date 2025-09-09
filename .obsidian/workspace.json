@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "13b50a09e20566df",
+        "id": "ac0211119c2968a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e21111ecbd36ef5e",
+            "id": "50b2ebbfe4ce2fa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sept, 2025/2025-09-08.md",
+                "file": "sept, 2025/2025-09-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-08"
+              "title": "2025-09-09"
+            }
+          },
+          {
+            "id": "98f04bcbe53ccd90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-breaking-even.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-breaking-even"
             }
           }
         ]
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b97c4e5379c5549d",
@@ -95,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sept, 2025/2025-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-08"
+              "title": "Backlinks"
             }
           },
           {
@@ -114,12 +126,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sept, 2025/2025-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-08"
+              "title": "Outgoing links"
             }
           },
           {
@@ -143,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sept, 2025/2025-09-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-08"
+              "title": "Outline"
             }
           }
         ]
@@ -170,8 +180,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "e21111ecbd36ef5e",
+  "active": "50b2ebbfe4ce2fa6",
   "lastOpenFiles": [
+    "sept, 2025/2025-09-09.md",
     "000-breaking-even.md",
     "sept, 2025/2025-09-08.md",
     "res/http_crud.png",

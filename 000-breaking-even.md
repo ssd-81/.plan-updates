@@ -36,18 +36,29 @@
 	- a few hiccups here and there; getting stable though. 
 	- session rating: 6/10
 - [x] zero 0x4
+	- 08-09-25
 	- about to start at 21:24
 	- started; and onto a good start. I was able to grasp ideas which I was not able to with half baked efforts. 
 	- feeling a bit sleepy at around 1:35 mark, should have taken some sleep during the day. I need to become a mathematician and highly optimized athlete. 
 	- feeling very lethargic and tired; limited sleep has started to take a toll on me. 
 	- could not complete the session as expected (missed mark by 20-25 min) and quality deteriorated too. 
 	- session rating: 4/10
-- [ ] 5
+- [ ] zero 0x5
+	- 09-09-25
+	- session started at 2122
+	- very poor start; high distraction; low attention. 
+	- still after 45-min I am still doing bs; reading random articles; day dreaming and what not. 
+	- got a bit of focus; doing a bit of linux and interesting stuff. 
+	- taking a light break in between for around 10-min to continue momentum. 
+	- lost track of time, started day dreaming and planning way ahead; anyways (though I did gain a bit , a bit of value); let's get back on track
+	- whenever I am trying to focus on a problem at hand; my brain starts to push unwanted stuff at me, that does not makes sense to me (bs like I will do that, complete that , make that etc etc; you can do everything, but first focus at the task at hand) 
+	- I am starting to question my process; for past 1-2 days, the quality of focus has not been great; just enough; but consider it part of the process. 
+	- 
 - [ ] 6
 - [ ] 7
-- [x] 8
-- [x] 9
-- [x] 10
+- [ ] 8
+- [ ] 9
+- [ ] 10
 - [x] 11
 - [x] 12
 - [x] 13

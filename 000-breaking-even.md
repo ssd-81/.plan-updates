@@ -43,7 +43,7 @@
 	- feeling very lethargic and tired; limited sleep has started to take a toll on me. 
 	- could not complete the session as expected (missed mark by 20-25 min) and quality deteriorated too. 
 	- session rating: 4/10
-- [ ] zero 0x5
+- [x] zero 0x5
 	- 09-09-25
 	- session started at 2122
 	- very poor start; high distraction; low attention. 
@@ -54,8 +54,26 @@
 	- whenever I am trying to focus on a problem at hand; my brain starts to push unwanted stuff at me, that does not makes sense to me (bs like I will do that, complete that , make that etc etc; you can do everything, but first focus at the task at hand) 
 	- I am starting to question my process; for past 1-2 days, the quality of focus has not been great; just enough; but consider it part of the process. 
 	- 
-- [ ] 6
-- [ ] 7
+- [x] zero 0x6
+	- 10-09-25
+	- started at 21:30
+	- started working on backend related stuff (having been delaying for 2 days now); will be focusing on that for 2 hours 
+	- again got distracted in between by bs and planning; back on track though. 
+	- on track again; but I will iterate and keep refining this process. slow and steady. 
+	- feeling really tired; taking a small break; going to hydrate. 
+	- pre-emptive exit; feeling really tired. 
+	- 3/10
+- [x] zero 0x7
+		- started at 2117; lied ,at 2122
+	- 11-09-25
+	- got to a fine start. 
+	- planning to start a short video essay everyday to improve my communication skills and to push myself hard. 
+	- this is the time to really do something like this; I know cringe; but who is saying that --
+	- I actually might be able to complete this project today; if I am going to; then I will surely upload the video no matter how bad. 
+	- Focus is pretty good; stable and fine till now. 
+	- started working on algos, now; will be spending around 2 hrs on this. 
+	- might take pre-emptive exit, but will try to get it done. 
+	- session rating: 6/10.
 - [ ] 8
 - [ ] 9
 - [ ] 10

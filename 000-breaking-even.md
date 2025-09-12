@@ -74,7 +74,14 @@
 	- started working on algos, now; will be spending around 2 hrs on this. 
 	- might take pre-emptive exit, but will try to get it done. 
 	- session rating: 6/10.
-- [ ] 8
+- [x] zero 0x8
+		- started at 2307 (late, I know)
+	- onto a bit of unstable start; but anyways; I will try to figure out in the chaos. 
+	- the focus was actually good; I am still around 90-min behind mark; but I would say,  I can go pretty strong. 
+	- was irritable in between, because of some problem I had encountered while setting up the backend project, but I guess we do learn. 
+	- will be trying to get 2-3 problems done; even using help, but getting the idea somewhat right. 
+	- Lost focus in between, linkedin stuff; need to block time from now on, further sharpen this system. 
+	- session rating: 6/10
 - [ ] 9
 - [ ] 10
 - [x] 11

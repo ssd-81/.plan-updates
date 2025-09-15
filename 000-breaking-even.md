@@ -82,13 +82,32 @@
 	- will be trying to get 2-3 problems done; even using help, but getting the idea somewhat right. 
 	- Lost focus in between, linkedin stuff; need to block time from now on, further sharpen this system. 
 	- session rating: 6/10
-- [ ] 9
-- [ ] 10
-- [x] 11
-- [x] 12
-- [x] 13
-- [x] 14
-- [x] 15
+- [x] zero 0x9
+		- started at 2131
+	- background noise detected. 
+	- full distracted session today; using all gpt generated code to work on a rust project. 
+	- getting into algorithms now; was engaging very passively till now. Let me now try to at least make these two hours worth. 
+	- still distracted, not at all great. let's try to get things done. 
+	- got somehow back on track. going good. 
+	- session rating: 5/10
+- [ ] zero 0x10
+	- 14-09-25
+	- **started at**: 2210
+	- going to read a bit of scott adams to prime myself. 
+	- continuing to work on algorithms (after a bit of priming) 
+	- I am not sure if I will be able to complete this session today or not; I am currently near the 1-1/4 mark. 2-3/4 remaining. Let's see. 
+	- --- unchained ---
+	- 15-09-25
+	- started at : 2200
+	- did some work on golang http server; the quality of focus was pretty poor and bad. 
+	- deep brown noise activated .
+	- my brain is pushing to me bad ideas. observe and let it pass. 
+	- 
+- [ ] 11
+- [ ] 12
+- [ ] 13
+- [ ] 14
+- [ ] 15
 - [x] 16
 - [x] 17
 - [x] 18

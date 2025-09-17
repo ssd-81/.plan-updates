@@ -90,7 +90,7 @@
 	- still distracted, not at all great. let's try to get things done. 
 	- got somehow back on track. going good. 
 	- session rating: 5/10
-- [ ] zero 0x10
+- [x] zero 0x10
 	- 14-09-25
 	- **started at**: 2210
 	- going to read a bit of scott adams to prime myself. 
@@ -102,7 +102,10 @@
 	- did some work on golang http server; the quality of focus was pretty poor and bad. 
 	- deep brown noise activated .
 	- my brain is pushing to me bad ideas. observe and let it pass. 
-	- 
+	- feeling a heavy sense to quit. 
+	- got distracted with twitter. 
+	- the session is about to end. 
+	- session rating: 3.5/ 10
 - [ ] 11
 - [ ] 12
 - [ ] 13

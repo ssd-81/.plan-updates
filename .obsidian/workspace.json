@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_two_thousand_twenty_five/09_sept/2025-09-23.md",
+                "file": "01_two_thousand_twenty_five/09_sept/2025-09-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-23"
+              "title": "2025-09-24"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b97c4e5379c5549d",
@@ -186,8 +187,9 @@
   "active": "e4552df62721a0ea",
   "lastOpenFiles": [
     "01_two_thousand_twenty_five/09_sept/2025-09-27.md",
-    "01_two_thousand_twenty_five/09_sept/2025-09-26.md",
+    "01_two_thousand_twenty_five/09_sept/2025-09-24.md",
     "01_two_thousand_twenty_five/09_sept/2025-09-23.md",
+    "01_two_thousand_twenty_five/09_sept/2025-09-26.md",
     "01_two_thousand_twenty_five/09_sept/2025-09-22.md",
     "houseRobber.png",
     "01_two_thousand_twenty_five/09_sept/2025-09-21.md",
@@ -215,7 +217,6 @@
     "01_two_thousand_twenty_five/09_sept/2025-09-04.md",
     "01_two_thousand_twenty_five/09_sept/2025-09-03.md",
     "01_two_thousand_twenty_five/09_sept/2025-09-02.md",
-    "01_two_thousand_twenty_five/09_sept/2025-09-01.md",
     "Pasted image 20250916185826.png",
     "res/http_crud.png"
   ]

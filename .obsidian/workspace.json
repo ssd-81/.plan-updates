@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_two_thousand_twenty_five/09_sept/2025-09-29.md",
+                "file": "01_two_thousand_twenty_five/10_oct/0x1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-29"
+              "title": "0x1"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "active": "5a2932acc2107ce1",
   "lastOpenFiles": [
+    "01_two_thousand_twenty_five/09_sept/2025-09-30.md",
     "The Accidental CTO.md",
     "01_two_thousand_twenty_five/09_sept/2025-09-29.md",
     "01_two_thousand_twenty_five/09_sept/2025-09-28.md",
@@ -211,7 +212,6 @@
     "01_two_thousand_twenty_five/10_oct/13-10-2025.md",
     "01_two_thousand_twenty_five/10_oct/12-10-2025.md",
     "01_two_thousand_twenty_five/10_oct/11-10-2025.md",
-    "01_two_thousand_twenty_five/10_oct/10-10-2025.md",
     "01_two_thousand_twenty_five/10_oct/script.sh",
     "01_two_thousand_twenty_five/10_oct",
     "01_two_thousand_twenty_five/script.sh",

@@ -535,7 +535,7 @@ This was the moment of truth. The most dangerous part of the operation. We had t
 - **Frantic Testing:** The moment the server was back online, Suumit and I were on the site, clicking everything. Can we log in? Yes. Do the stores load? Yes. Can we add a new product? Yes! It was working. The connection was successful.
 - **Disable Maintenance Mode:** With a deep breath of relief, we took the site out of maintenance mode.
 
-The entire downtime was about three minutes.
+**The entire downtime was about three minutes.**
 
 The great divorce was complete. Our app was running in its own kitchen, and our data was safe in its own library. Users immediately started telling us the site felt "snappier." We had survived our first major architectural upgrade. The kitchen was clean, the library was organized, and both could now do their best work without getting in each other's way.
 

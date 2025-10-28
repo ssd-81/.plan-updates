@@ -1,4 +1,3 @@
-**The Accidental CTO**
 
 # **How I Scaled from Zero to a Million Store on Dukaan, Without a CS Degree.**
 

@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_two_thousand_twenty_five/10_oct/0x25.md",
+                "file": "The Accidental CTO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0x25"
+              "title": "The Accidental CTO"
+            }
+          },
+          {
+            "id": "2db48709c6b50fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-breaking-even.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-breaking-even"
+            }
+          },
+          {
+            "id": "ccbac144a1af3dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_two_thousand_twenty_five/10_oct/0x27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0x27"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,8 +197,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "295096da2a94a40b",
+  "active": "ccbac144a1af3dec",
   "lastOpenFiles": [
+    "000-breaking-even.md",
+    "01_two_thousand_twenty_five/10_oct/0x27.md",
+    "01_two_thousand_twenty_five/10_oct/0x26.md",
+    "The Accidental CTO.md",
+    "res/idea.png",
+    "README.md",
+    "res/houseRobber.png",
+    "hollow-spectrum.md",
+    "res/dynamic_programming.png",
+    "2025-08.md",
+    "2025-07.md",
+    "2025-06.md",
+    "01_two_thousand_twenty_five/10_oct/0x25.md",
     "01_two_thousand_twenty_five/10_oct/0x24.md",
     "01_two_thousand_twenty_five/10_oct/0x23.md",
     "01_two_thousand_twenty_five/10_oct/0x22.md",
@@ -177,9 +219,7 @@
     "01_two_thousand_twenty_five/10_oct/0x18.md",
     "01_two_thousand_twenty_five/10_oct/0x19.md",
     "01_two_thousand_twenty_five/10_oct/0x20.md",
-    "The Accidental CTO.md",
     "01_two_thousand_twenty_five/10_oct/0x17.md",
-    "dynamic_programming.png",
     "01_two_thousand_twenty_five/10_oct/0x16.md",
     "01_two_thousand_twenty_five/10_oct/0x15.md",
     "01_two_thousand_twenty_five/10_oct/0x14.md",
@@ -188,24 +228,13 @@
     "01_two_thousand_twenty_five/10_oct/0x11.md",
     "01_two_thousand_twenty_five/10_oct/0x10.md",
     "01_two_thousand_twenty_five/10_oct/0x9.md",
-    "01_two_thousand_twenty_five/10_oct/0x8.md",
-    "01_two_thousand_twenty_five/10_oct/0x7.md",
-    "01_two_thousand_twenty_five/10_oct/0x6.md",
-    "01_two_thousand_twenty_five/10_oct/0x5.md",
-    "01_two_thousand_twenty_five/10_oct/0x4.md",
-    "01_two_thousand_twenty_five/10_oct/0x3.md",
-    "01_two_thousand_twenty_five/10_oct/0x2.md",
-    "01_two_thousand_twenty_five/10_oct/0x1.md",
-    "01_two_thousand_twenty_five/09_sept/2025-09-30.md",
     "Unconfirmed 395991.crdownload",
     "01_two_thousand_twenty_five/10_oct/script.sh",
     "01_two_thousand_twenty_five/10_oct",
     "01_two_thousand_twenty_five/script.sh",
-    "houseRobber.png",
-    "idea.png",
-    "Pasted image 20250920192946.png",
+    "res/Pasted image 20250920192946.png",
     "Untitled.base",
-    "Pasted image 20250916185826.png",
+    "res/Pasted image 20250916185826.png",
     "res/http_crud.png"
   ]
 }

@@ -106,21 +106,31 @@
 	- got distracted with twitter. 
 	- the session is about to end. 
 	- session rating: 3.5/ 10
-- [ ] 11
+- [x] zero 0x11
+	- started 25-10-25; 1720 
+	- core focus is to get mini miner; nothing else. 
+	- started listening to music for some reason; broken focus. 
+	- have gained a basic flow; started working on the problem with good enough focus. 
+	- managed to complete the solution with a bit of help. 
+	- did some random activity ; though not pure bs; but not really productive
+	- got back on track; tried to read some docs; planned some experiments
+	- there is around 30 min before the session ends; I have started getting heavily distracted; "Criminal" playing in background
+	- completed , but last 1.5 h was quite inefficient. very inefficient. 
+	- session rating: 4/10
 - [ ] 12
 - [ ] 13
 - [ ] 14
 - [ ] 15
-- [x] 16
-- [x] 17
-- [x] 18
-- [x] 19
-- [x] 20
-- [x] 21
-- [x] 22
-- [x] 23
-- [x] 24
-- [x] 25
+- [ ] 16
+- [ ] 17
+- [ ] 18
+- [ ] 19
+- [ ] 20
+- [ ] 21
+- [ ] 22
+- [ ] 23
+- [ ] 24
+- [ ] 25
 - [x] 26
 - [x] 27
 - [x] 28

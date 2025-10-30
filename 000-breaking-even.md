@@ -117,7 +117,29 @@
 	- there is around 30 min before the session ends; I have started getting heavily distracted; "Criminal" playing in background
 	- completed , but last 1.5 h was quite inefficient. very inefficient. 
 	- session rating: 4/10
-- [ ] 12
+- [x] zero 0x12
+	- started 30-10-25; 2250
+	- kill 0x1
+	- kill 0x2
+	- kill 0x3
+	- kill 0x4
+	- kill 0x5
+	- kill 0x6
+	- kill 0x7 (kevin simler)
+	- kill 0x8
+	- kill 0x9
+	- kill 0x10
+	- kill 0x11
+	- kill 0x12
+	- kill 0x13 (spot now at least; i guess you are now realizing the extent of context switching)
+	- kill 0x14
+	- kill 0x15
+	- kill 0x16; well deserved, but not justified
+	- kill 0x17
+	- kill 0x18 
+	- about to end the session; fair amount of productivity; but realized how distracted my current state is; my efficiency could easily be 10x if I learn to handle chaos. 
+	- done with the session. 
+	- session rating: 2/10
 - [ ] 13
 - [ ] 14
 - [ ] 15

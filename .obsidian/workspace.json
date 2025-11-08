@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_two_thousand_twenty_five/11_nov/05x11x25.md",
+                "file": "01_two_thousand_twenty_five/11_nov/08x11x25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05x11x25"
+              "title": "08x11x25"
             }
           },
           {
@@ -184,8 +184,11 @@
   },
   "active": "295096da2a94a40b",
   "lastOpenFiles": [
-    "000-breaking-even.md",
+    "01_two_thousand_twenty_five/11_nov/06x11x25.md",
+    "01_two_thousand_twenty_five/11_nov/08x11x25.md",
+    "01_two_thousand_twenty_five/11_nov/07x11x25.md",
     "01_two_thousand_twenty_five/11_nov/05x11x25.md",
+    "000-breaking-even.md",
     "01_two_thousand_twenty_five/11_nov/04x11x25.md",
     "01_two_thousand_twenty_five/11_nov/03x11x25.md",
     "01_two_thousand_twenty_five/11_nov/02x11x25.md",
@@ -211,9 +214,6 @@
     "2025-08.md",
     "2025-07.md",
     "2025-06.md",
-    "01_two_thousand_twenty_five/10_oct/0x25.md",
-    "01_two_thousand_twenty_five/10_oct/0x24.md",
-    "01_two_thousand_twenty_five/10_oct/0x23.md",
     "Unconfirmed 395991.crdownload",
     "01_two_thousand_twenty_five/10_oct/script.sh",
     "01_two_thousand_twenty_five/10_oct",
